@@ -9,5 +9,7 @@
 #import "pod_test.h"
 
 @implementation pod_test
-
+- (void)test {
+    NSLog(@"hello world");
+}
 @end

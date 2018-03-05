@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface pod_test : NSObject
-
+- (void)test;
 @end
