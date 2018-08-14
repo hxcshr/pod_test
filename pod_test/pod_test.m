@@ -10,6 +10,6 @@
 
 @implementation pod_test
 - (void)test {
-    NSLog(@"hello world");
+    NSLog(@"hello world  ））））））））*********");
 }
 @end
